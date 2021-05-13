@@ -9,8 +9,6 @@
 
 	<properties>
 		<jdk.version>1.6</jdk.version>
-		<spring.version>3.2.13.RELEASE</spring.version>
-		<jstl.version>1.1</jstl.version>
 	</properties>
 
 	<dependencies>
