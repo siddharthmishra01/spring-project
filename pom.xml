@@ -10,6 +10,11 @@
 	<properties>
 		<jdk.version>1.6</jdk.version>
 	</properties>
+	<scm>
+		<url>https://github.com/siddharthmishra01/spring-project</url>
+		<connection>scm:git:https://siddharthmishra01@github.com/siddharthmishra01/spring-project.git</connection>
+		<developerConnection>scm:git:https://siddharthmishra01@github.com/siddharthmishra01/spring-project.git</developerConnection>
+	</scm>
 
 	<dependencies>
 
